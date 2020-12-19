@@ -1,0 +1,1 @@
+alert('Hi! Huy Handsome Learn JavaScript ^^')
