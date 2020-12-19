@@ -25,3 +25,11 @@ Route::get('alert', function () {
 Route::get('var', function () {
     return View('bai2.index');
 });
+// Built-in
+Route::get('built', function () {
+    return View('bai4.index');
+});
+// toán tử
+Route::get('toan-tu', function () {
+    return View('bai5.index');
+});
